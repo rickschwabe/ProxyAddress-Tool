@@ -92,7 +92,7 @@ TitleCaps="false"
 			 </StackPanel>
 
 			<StackPanel Orientation="Vertical" Margin="0,5,0,0" HorizontalAlignment="Center">
-				<Button x:Name="button_ok" Content="Set and Save"  Margin="0,0,0,0" Width="390" Height="30"></Button>
+				<Button x:Name="button_ok" Content="OK"  Margin="0,0,0,0" Width="390" Height="30"></Button>
 			</StackPanel>
 			
         </StackPanel>
