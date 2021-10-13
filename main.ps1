@@ -129,7 +129,6 @@ $Change_Theme.Add_Click({
 		
 ### Button for AD GUI to choose User ###
 $browse_user.Add_Click({
-	check-admodule		
 	$DialogAD = New-Object CubicOrange.Windows.Forms.ActiveDirectory.DirectoryObjectPickerDialog
     
     $DialogAD.AllowedLocations = [CubicOrange.Windows.Forms.ActiveDirectory.Locations]::All
