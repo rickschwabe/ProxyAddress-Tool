@@ -4,5 +4,5 @@ This tool is used to easily edit the proxy address attribute. This can be helpfu
 
 The only requirement is the Powershell Module 'ActiveDirectory'
 
-![image](https://user-images.githubusercontent.com/56133527/137225673-744e191f-b016-4569-86c9-ad767dc7efe0.png)
+![image](https://user-images.githubusercontent.com/56133527/137228161-f4ab7288-bdf0-4f9b-b33c-c8628c974057.png)
 
